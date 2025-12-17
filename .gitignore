@@ -46,7 +46,6 @@ out/
 # Generated Code
 *.exe
 *.dll
-*.lib
 *.exp
 *.manifest
 
